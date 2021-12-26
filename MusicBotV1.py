@@ -4,7 +4,7 @@ import pafy
 import os
 import time
 
-token = "ODg3Nzc2NjE3ODg2Mjg1ODg0.YUJEZw.I-RVoiOm2uVQS-gfw3DGcUFcrZY"
+token = "token"
 client = commands.Bot(command_prefix = "-")
 audio_queue = []
 
