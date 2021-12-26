@@ -7,7 +7,7 @@ FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconne
 YDL_OPTIONS = {'format': 'bestaudio'}
 #36768768 for permissions
 
-token = "ODg3Nzc2NjE3ODg2Mjg1ODg0.YUJEZw.I-RVoiOm2uVQS-gfw3DGcUFcrZY"
+token = "token"
 client = commands.Bot(command_prefix = "-")
 
 audio_queue = []
